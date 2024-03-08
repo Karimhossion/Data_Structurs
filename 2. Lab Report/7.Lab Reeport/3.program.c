@@ -1,4 +1,4 @@
-
+//WAP to add a element end of the linked list
 #include <stdio.h>
 #include <stdlib.h>
 
