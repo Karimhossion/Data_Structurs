@@ -21,6 +21,7 @@ int main()
     {
         array[i]=array[i+1];
     }
+    
     cout<<"delete element : ";
     for (int i = 0; i < arrSize-1; i++)
     {
